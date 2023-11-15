@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    width: 720px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#giocatori{
+    margin: 0 auto;
+    width: 760px;
+    height: 70px;
+    font-size: 20px;
+}
+#spanLeft{
+    float: left;
+}
+#spanRight{
+    float: right;
+}
+#tab{
+    margin: 0 auto;
+    width: 760px;
+    height:100px;
+}
+#tab1{
+    width: 360px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+}
+#tab2{
+    width: 360px;
+    height: 100px;
+    border: 1px solid black;
+    float: right;
+}
